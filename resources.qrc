@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>test.qml</file>
+        <file>test2.qml</file>
+        <file>View_item2.qml</file>
+        <file>MainTab.qml</file>
+        <file>EmptyTab.qml</file>
+        <file>test3.qml</file>
+        <file>FlowTab.qml</file>
+        <file>test3_flow.qml</file>
+        <file>PrefixList.qml</file>
+        <file>PrefixElement.qml</file>
+        <file>SimpleColorPicker.qml</file>
+        <file>View_item.qml</file>
+        <file>MoveViewDialog.qml</file>
+    </qresource>
+</RCC>
